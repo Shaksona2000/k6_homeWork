@@ -1,0 +1,10 @@
+{
+  "vus": 1,
+  "duration": "15s",
+  "tags": { "env": "dev" },
+  "summaryTrendStats": ["min","med","p(90)","p(95)","max"]
+}
+
+{
+  "baseURL": "https://api.example.com",
+  "authToken":
